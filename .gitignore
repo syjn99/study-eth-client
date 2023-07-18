@@ -1,1 +1,12 @@
 .env
+
+# prysm
+2-etherscan-leaderboard/ethereum/consensus/data/
+2-etherscan-leaderboard/ethereum/consensus/prysm/dist/
+2-etherscan-leaderboard/ethereum/consensus/*.hex
+
+# geth
+2-etherscan-leaderboard/ethereum/execution/data/
+
+# dump file
+2-etherscan-leaderboard/*.json
