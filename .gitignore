@@ -9,5 +9,9 @@
 # geth
 2-etherscan-leaderboard/ethereum/execution/data/
 
+# erigon
+2-etherscan-leaderboard/ethereum/execution-erigon/erigon/
+
+
 # dump file
 2-etherscan-leaderboard/*.json
