@@ -1,4 +1,5 @@
 .env
+.DS_Store
 
 # prysm
 2-etherscan-leaderboard/ethereum/consensus/data/
